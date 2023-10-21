@@ -26,6 +26,7 @@ body > div > *{
     padding-bottom: 0;
 }
 body > div > h2{
+    width: 100%;
     font-size: calc(2vh + 4vw);
     height: 12vh;
 }
