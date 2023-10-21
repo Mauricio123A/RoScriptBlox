@@ -3,7 +3,6 @@
     padding: 0;
 }
 body{
-    overflow: hidden;
     background-color: rgba(13,2,20,1);
     display: flex;
     flex-wrap: wrap;
@@ -30,8 +29,6 @@ body > div > h2{
     font-size: calc(2vh + 4vw);
     height: 12vh;
 }
-
-h2 {}
 header{
     width: 100vw;
     height: 22vh;
