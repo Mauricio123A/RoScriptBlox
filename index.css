@@ -94,14 +94,12 @@ header > h1{
     height: 15px;
     margin-bottom: 2vh;
 }
-.Tarjeta > a{
+body > div > a{
     font-family: 'NTR', sans-serif;
-    font-weight: 600;
-    width: 100%;
-    font-size: calc(0.6vw + 15px);
+    font-size: calc(1vh + 3vw);
     text-align: center;
-    height: 15px;
-    margin-bottom: 2vh;
+    color: rgba(0,0,0, 0.8);
+    padding-bottom: 2vw;
 }
 
 .Tarjeta:hover{
